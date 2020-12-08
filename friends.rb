@@ -1,4 +1,4 @@
-class Friends
+class Friends Hello
     attr_reader :name
 
   def initialize(name)
