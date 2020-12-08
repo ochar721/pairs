@@ -3,5 +3,8 @@ class Friends Hello
 
   def initialize(name)
     @name = name
+    @height = height
+    @eye_color = eye_color
   end
+
 end
