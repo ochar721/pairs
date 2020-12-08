@@ -3,5 +3,6 @@ class Friends
 
   def initialize(name)
     @name = name
+    @height = height
   end
 end
